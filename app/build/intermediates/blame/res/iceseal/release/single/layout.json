@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/listitem_minisong.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/listitem_minisong.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/list_playlist.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/list_playlist.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/list_minisong.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/list_minisong.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/activity_mainplay.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/activity_mainplay.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/listitem_genre.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/listitem_genre.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/listitem_filelist.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/listitem_filelist.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/list_genre.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/list_genre.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/list_album.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/list_album.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/equalizer.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/equalizer.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/listitem_artist.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/listitem_artist.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/widget_player.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/widget_player.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/activity_songlist.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/activity_songlist.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/listitem_song.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/listitem_song.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/activity_maintab.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/activity_maintab.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/listitem_folder.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/listitem_folder.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/notification.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/notification.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/listitem_album.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/listitem_album.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/list_artist.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/list_artist.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/curplaybar_gallery_item.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/curplaybar_gallery_item.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/base_curplaybar.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/base_curplaybar.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/list_folder.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/list_folder.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/listitem_playlist.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/listitem_playlist.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/list_song.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/list_song.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/iceseal/release/layout/window_filebrowser.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/layout/window_filebrowser.xml"
+    }
+]

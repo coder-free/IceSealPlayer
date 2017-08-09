@@ -1,19 +1,23 @@
 [
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/menu.png",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/menu.png"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_circulation.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_circulation.png"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_like.png",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/checkbox_like.png"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/contact_list_scroll_normal.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/contact_list_scroll_normal.png"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/menu.png",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/menu.png"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_next.png",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_next.png"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_next_pressed.png",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_next_pressed.png"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_songlist_pressed.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_songlist_pressed.png"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/dialog_songlist_border.9.png",
@@ -28,8 +32,8 @@
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_list_circulation.png"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_single_song.png",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_single_song.png"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_single_song.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_single_song.png"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/back_pressed.png",
@@ -40,12 +44,132 @@
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/defaultalbumimage.png"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/menu_pressed.png",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/menu_pressed.png"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_pause.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_pause.png"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/thumb_normal.png",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/thumb_normal.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/menu.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/menu.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_next.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_next.png"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_last_pressed.png",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_last_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/thumb_pressed.png",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/thumb_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/notification_icon.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/notification_icon.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/menu_pressed.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/menu_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/contact_list_scroll_pressed.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/contact_list_scroll_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_list_circulation.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_list_circulation.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_last_pressed.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_last_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_like.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/checkbox_like.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/notification_cancel.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/notification_cancel.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_list_circulation_pressed.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_list_circulation_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/dir.png",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/dir.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_play_pressed.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_play_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_pause.png",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_pause.png"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_play_pressed.png",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_play_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_list_circulation_pressed.png",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_list_circulation_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/thumb_normal.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/thumb_normal.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/thumb_pressed.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/thumb_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_unlike.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/checkbox_unlike.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_circulation_pressed.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_circulation_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_like.png",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/checkbox_like.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_play.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_play.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_next_pressed.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_next_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_single_song_pressed.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_single_song_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_songlist.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_songlist.png"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_next_pressed.png",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_next_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_single_song.png",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_single_song.png"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/menu_pressed.png",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/menu_pressed.png"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/notification_icon.png",
@@ -64,16 +188,24 @@
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_songlist_pressed.png"
     },
     {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/back.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/back.png"
+    },
+    {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_play.png",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_play.png"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_songlist.png",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_songlist.png"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/dialog_songlist_border.9.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/dialog_songlist_border.9.png"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_last_pressed.png",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_last_pressed.png"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/defaultalbumimage.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/defaultalbumimage.png"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_songlist.png",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_songlist.png"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
@@ -84,12 +216,12 @@
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_single_song_pressed.png"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/thumb_pressed.png",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/thumb_pressed.png"
-    },
-    {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/contact_list_scroll_normal.png",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/contact_list_scroll_normal.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_pause_pressed.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_pause_pressed.png"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_pause_pressed.png",
@@ -112,6 +244,14 @@
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/contact_list_scroll_pressed.png"
     },
     {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_random_pressed.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_random_pressed.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/tab_cursor.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/tab_cursor.png"
+    },
+    {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_random_pressed.png",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_random_pressed.png"
     },
@@ -120,23 +260,23 @@
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_circulation_pressed.png"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/dir.png",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/dir.png"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/back_pressed.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/back_pressed.png"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_random.png",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_random.png"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_play_pressed.png",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_play_pressed.png"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_last.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_last.png"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_control_pause.png",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/btn_control_pause.png"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_random.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_random.png"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/playmode_list_circulation_pressed.png",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-hdpi/playmode_list_circulation_pressed.png"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/dir.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-hdpi/dir.png"
     }
 ]

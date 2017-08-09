@@ -154,7 +154,7 @@ abstract public class BaseActivity extends Activity {
 	}
 	
 	protected void bindImportMusicService(ArrayList<String> selectedPaths) {
-		Intent service = new Intent("com.zbf.iceseal.MUSIC_IMPORT");
+		Intent service = new Intent(this, com.zbf.iceseal.service.MusicImportService.class);
 		service.putExtra(MusicImportService.MUSIC_IMPORT_IK, selectedPaths);
 		callback = new IMusicImportServiceCallback.Stub() {
 			@Override
@@ -219,7 +219,7 @@ abstract public class BaseActivity extends Activity {
 	}
 
 	private void bindPlayerService() {
-		Intent service = new Intent(PlayerService.PLAYER_SERVICE_ACTION);
+		Intent service = new Intent(this, com.zbf.iceseal.service.PlayerService.class);
 		mPlayerConn = new ServiceConnection() {
 			
 			@Override

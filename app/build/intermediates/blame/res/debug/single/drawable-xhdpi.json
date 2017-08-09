@@ -2,5 +2,9 @@
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     }
 ]

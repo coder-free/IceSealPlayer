@@ -1,0 +1,4 @@
+#Wed Aug 09 20:54:25 CST 2017
+base.0=/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/transforms/dex/iceseal/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/transforms/dex/iceseal/release/folders/1000/1f/main/classes.dex

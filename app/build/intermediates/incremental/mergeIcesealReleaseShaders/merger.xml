@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/shaders"/></dataSet><dataSet config="iceseal"><source path="/Users/zbf/StudioProjects/IceSealPlayer/app/src/iceseal/shaders"/></dataSet><dataSet config="release"><source path="/Users/zbf/StudioProjects/IceSealPlayer/app/src/release/shaders"/></dataSet><dataSet config="icesealRelease"><source path="/Users/zbf/StudioProjects/IceSealPlayer/app/src/icesealRelease/shaders"/></dataSet></merger>

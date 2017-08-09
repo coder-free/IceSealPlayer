@@ -1,19 +1,31 @@
 [
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/seekbar_style.xml",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/seekbar_style.xml"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/circul_random.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/circul_random.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/menu_selector.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/menu_selector.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/listitem_image_bg.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/listitem_image_bg.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/list_divider_bg.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/list_divider_bg.xml"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/thumb_selector.xml",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/thumb_selector.xml"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/list_divider_bg.xml",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/list_divider_bg.xml"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/thumb_selector.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/thumb_selector.xml"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/back_selector.xml",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/back_selector.xml"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_play_selector.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/btn_play_selector.xml"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_next_selector.xml",
@@ -24,20 +36,12 @@
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/circul_single_repeat.xml"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/base_curplay_bg.xml",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/base_curplay_bg.xml"
-    },
-    {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/circul_list_repeat.xml",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/circul_list_repeat.xml"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_minilist_selector.xml",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/btn_minilist_selector.xml"
-    },
-    {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_start_selector.xml",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/btn_start_selector.xml"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/songlist_title_bg.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/songlist_title_bg.xml"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_play_selector.xml",
@@ -46,14 +50,6 @@
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_last_selector.xml",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/btn_last_selector.xml"
-    },
-    {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/tab_title_bg.xml",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/tab_title_bg.xml"
-    },
-    {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_pause_selector.xml",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/btn_pause_selector.xml"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/menu_selector.xml",
@@ -68,8 +64,96 @@
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/circul_list_once.xml"
     },
     {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/cbislike_selector.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/cbislike_selector.xml"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/cbislike_selector.xml",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/cbislike_selector.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/back_selector.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/back_selector.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/progress_style.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/progress_style.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/desk_widget_bg.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/desk_widget_bg.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_next_selector.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/btn_next_selector.xml"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/seekbar_style.xml",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/seekbar_style.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_pause_selector.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/btn_pause_selector.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/circul_list_once.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/circul_list_once.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/alphabet_scroller_bg.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/alphabet_scroller_bg.xml"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/list_divider_bg.xml",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/list_divider_bg.xml"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/back_selector.xml",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/back_selector.xml"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/base_curplay_bg.xml",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/base_curplay_bg.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/tab_divider_bg.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/tab_divider_bg.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/tab_title_bg.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/tab_title_bg.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_start_selector.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/btn_start_selector.xml"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_minilist_selector.xml",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/btn_minilist_selector.xml"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_start_selector.xml",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/btn_start_selector.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/circul_single_repeat.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/circul_single_repeat.xml"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/tab_title_bg.xml",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/tab_title_bg.xml"
+    },
+    {
+        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_pause_selector.xml",
+        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/btn_pause_selector.xml"
+    },
+    {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/tab_divider_bg.xml",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/tab_divider_bg.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_minilist_selector.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/btn_minilist_selector.xml"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/circul_random.xml",
@@ -80,6 +164,10 @@
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/progress_style.xml"
     },
     {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/window_filelist_bg.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/window_filelist_bg.xml"
+    },
+    {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/listitem_image_bg.xml",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/listitem_image_bg.xml"
     },
@@ -88,15 +176,27 @@
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/alphabet_scroller_bg.xml"
     },
     {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/circul_list_repeat.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/circul_list_repeat.xml"
+    },
+    {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/songlist_title_bg.xml",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/songlist_title_bg.xml"
     },
     {
-        "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/cbislike_selector.xml",
-        "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/cbislike_selector.xml"
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/btn_last_selector.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/btn_last_selector.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/base_curplay_bg.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/base_curplay_bg.xml"
     },
     {
         "merged": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/desk_widget_bg.xml",
         "source": "/Users/zbf/Desktop/Studio/IceSealPlayer/app/src/main/res/drawable/desk_widget_bg.xml"
+    },
+    {
+        "merged": "/Users/zbf/StudioProjects/IceSealPlayer/app/build/intermediates/res/merged/debug/drawable/seekbar_style.xml",
+        "source": "/Users/zbf/StudioProjects/IceSealPlayer/app/src/main/res/drawable/seekbar_style.xml"
     }
 ]
